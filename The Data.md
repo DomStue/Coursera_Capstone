@@ -1,0 +1,1 @@
+The data comprises of 194673 total entries and the number of categories or parameters is 37. The severity of the car accidents is measured as a categorical number, which means a supervised classification model is used for this dataset. Although the scale goes from 0 to 3, only entries with 1(prop damage) and 2 (injury) are included.
