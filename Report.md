@@ -1,0 +1,3 @@
+##Introduction
+
+The aim of the project is to predict the severity of car accidents by using data of former car accidents in the area of seattle. The labeled data has been obtained from 2004 to present and is updated one a weekly basis. A model calculated from this data to predict the severity of a car accident might be useful for emergency services such as paramedics or firefighters. Moreover, it might be useful to provide information for insurances and therefore might be helpful to prevent insurance fraud.
